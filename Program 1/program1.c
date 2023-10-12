@@ -98,4 +98,5 @@ int main() {
         printf("%-10s %.2f\n", months[index_order[i]], values[index_order[i]]);  // Prints the months and earnings in order from highest to lowest
     }
 
+    return 0;
 }
