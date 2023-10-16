@@ -1,4 +1,4 @@
-program2: program1.c
+program2: program2.c
 	cc program2.c -o program2
 
 clean:
