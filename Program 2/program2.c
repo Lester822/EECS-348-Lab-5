@@ -1,3 +1,11 @@
+// ASSIGNMENT_NAME: EECS 348 Lab 5 Problem 2
+// FUNCTION: Calculate every way a given NFL score can be reached
+// INPUTS: Number from the console
+// OUTPUTS: The various ways that score can be achieved
+// AUTHOR_NAME: Michael Stang
+// COLLABORATORS: NONE
+// CREATION_DATE: 10/15/2023
+
 #include <stdio.h>
 
 int main() {
