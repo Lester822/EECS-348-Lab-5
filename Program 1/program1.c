@@ -1,3 +1,11 @@
+// ASSIGNMENT_NAME: EECS 348 Lab 5 Problem 1
+// FUNCTION: Do math with inputted sales figures from data.txt
+// INPUTS: data.txt
+// OUTPUTS: Various tables with data from the inputted file
+// AUTHOR_NAME: Michael Stang
+// COLLABORATORS: NONE
+// CREATION_DATE: 10/15/2023
+
 #include <stdio.h>
 #include <stdlib.h>
 
